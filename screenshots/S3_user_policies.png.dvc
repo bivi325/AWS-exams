@@ -1,0 +1,4 @@
+outs:
+- md5: 82ca4d4f557cbc4842d3ecfbf3da3f64
+  size: 1037500
+  path: S3_user_policies.png

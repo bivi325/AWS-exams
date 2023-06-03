@@ -1,0 +1,4 @@
+outs:
+- md5: b006d4e660d414259e9f3b067854c94c
+  size: 411426
+  path: AWS_EBS_volume_comparison.png

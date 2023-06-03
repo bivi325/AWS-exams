@@ -1,0 +1,4 @@
+outs:
+- md5: 2795cefc7e7a3feb7e169a0c1c8bf8af
+  size: 1264373
+  path: S3_resource_based_policies.png

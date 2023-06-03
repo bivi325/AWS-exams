@@ -1,0 +1,4 @@
+outs:
+- md5: cb9b003f6e34d1589afade24a1e92d46
+  size: 375767
+  path: AWS_well_architected.png

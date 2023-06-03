@@ -1,0 +1,4 @@
+outs:
+- md5: 17edfffa08c7695c5eebf359fbb5cacc
+  size: 446776
+  path: AWS_well_architected_tool.png

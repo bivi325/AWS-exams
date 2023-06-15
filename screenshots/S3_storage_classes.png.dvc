@@ -1,0 +1,4 @@
+outs:
+- md5: 457c2ea3b3c9162a8fc7cf79a876176d
+  size: 1148648
+  path: S3_storage_classes.png

@@ -1,0 +1,4 @@
+outs:
+- md5: 59181780870d76511e17ef16b7b64066
+  size: 320809
+  path: AWS_well_architected_pillars.png
